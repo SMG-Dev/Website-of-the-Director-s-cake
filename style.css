@@ -3,38 +3,42 @@
 }
 body{
 margin:0;
+padding:0;
+overflow-x:hidden;
 }
-.cql{
+.cql{ /* menu tabl*/
 background-color:#333;
+width:100vw;
 }
-.cql td{
-padding-left:2vw;
-padding-right:2vw;
+.cql td{ /*menu otdelni*/
+padding-left:1vw;
+padding-right:1vw;
 padding-top:1vw;
 padding-bottom:1vw;
 text-align:center;
 text-transform:uppercase;
 color:white;
+width:12.2vw;
+font-size:1.35vw;
 }
 .cql a{
 text-decoration:none;
 color:white;
 display:block;
 }
-.men{
-width=33.33%;
-padding=15px;
+.men{ /*menu cqlo stikito*/
+width:100vw;
 position:sticky;
 top:0;
-border: 1px solid gray;
+
 }
 .hui{
-width=100%;
-float=left;
-padding=15px;
+width:80vw;
+float:left;
+padding:1vw;
 }
 .logo{
-width=100%;
+width:100vw;
 background-color:white;
 }
 .pishonka{
