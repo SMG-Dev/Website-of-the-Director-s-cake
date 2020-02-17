@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+body{
+margin:0;
+}
+.cql{
+background-color:#333;
+}
+.cql td{
+padding-left:2vw;
+padding-right:2vw;
+padding-top:1vw;
+padding-bottom:1vw;
+text-align:center;
+text-transform:uppercase;
+color:white;
+}
+.cql a{
+text-decoration:none;
+color:white;
+display:block;
+}
+.men{
+width=33.33%;
+padding=15px;
+position:sticky;
+top:0;
+border: 1px solid gray;
+}
+.hui{
+width=100%;
+float=left;
+padding=15px;
+}
+.logo{
+width=100%;
+background-color:white;
+}
+.pishonka{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ }
+
